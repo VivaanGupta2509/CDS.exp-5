@@ -145,5 +145,20 @@ using namespace std;
  }
 ```
 
+## Output - 
+### A1 - 
+
+
+### A2 - 
+<img width="687" alt="Screenshot 2024-08-05 at 2 04 50 AM" src="https://github.com/user-attachments/assets/e737d7b0-c583-4895-9dcc-1fe1c9567a2e">
+
+
+### B - 
+<img width="684" alt="Screenshot 2024-08-05 at 2 03 33 AM" src="https://github.com/user-attachments/assets/5ff21d26-0d5c-4a65-8ca2-dc4224a13332">
+
+
+
+
+
 
 
