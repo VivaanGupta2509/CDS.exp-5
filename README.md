@@ -147,6 +147,7 @@ using namespace std;
 
 ## Output - 
 ### A1 - 
+<img width="687" alt="Screenshot 2024-08-05 at 2 04 50 AM" src="https://github.com/user-attachments/assets/a811c365-33be-4c6a-97b3-3d292e8c94a4">
 
 
 ### A2 - 
@@ -155,6 +156,11 @@ using namespace std;
 
 ### B - 
 <img width="684" alt="Screenshot 2024-08-05 at 2 03 33 AM" src="https://github.com/user-attachments/assets/5ff21d26-0d5c-4a65-8ca2-dc4224a13332">
+
+
+## Conclusion - 
+We learnt about conditional statements and their use case. <br>
+We learnt about nested if-else statements and switch case.
 
 
 
